@@ -1,4 +1,4 @@
-FROM wnameless/oracle-xe-11g
+FROM wnameless/oracle-xe-11g:14.04.4
 MAINTAINER ASCDC <asdc.sinica@gmail.com>
 
 ADD run.sh /run.sh
